@@ -110,6 +110,4 @@ set_property -dict { PACKAGE_PIN A8 IOSTANDARD LVCMOS33 } [get_ports {an[3]}]
 ---
 
 ## Conclusion
-In this experiment, a seven-segment display driver was successfully implemented and simulated using Verilog HDL. The simulation results verified that the display accurately represented digits 0 through 9 based on the 4-bit binary input. The testbench effectively validated the design by applying multiple input combinations and observing the corresponding segment outputs.
-
-This experiment demonstrates the practical application of Verilog HDL in designing and controlling digital hardware components, highlighting its importance in developing reliable and efficient digital systems.
+In this experiment, a seven-segment display driver was successfully implemented using Verilog HDL in FPGA.This experiment demonstrates the practical application of Verilog HDL in designing and controlling digital hardware components, highlighting its importance in developing reliable and efficient digital systems.
